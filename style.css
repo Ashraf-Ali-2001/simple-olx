@@ -1,0 +1,37 @@
+#searcher{
+    width: 600px;
+    height: 45px;
+    font-size: 25px;
+}
+.div1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.div0 {
+    background-image: url("./images/background.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    /* background-size: contain; */
+    height: 70vh;
+  max-width: 100%;
+    text-align: center;
+}
+#searcher{
+    background-color: rgb(243, 246, 245);
+}
+#btn{
+    padding: 15px;
+    border-radius: 30px;
+    background-color: rgb(115, 124, 204);
+    color: #fff;
+    font-weight: 500;
+}
+.myImg{
+    width: 300px;
+    height: 200px;
+    border: 2px solid black;
+    padding: 9px;
+}
